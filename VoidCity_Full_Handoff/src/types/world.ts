@@ -1,0 +1,1 @@
+export interface World{id:string;tick:number;}

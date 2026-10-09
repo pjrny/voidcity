@@ -1,0 +1,1 @@
+Complete project handoff. Primary gameplay loop: Build -> Flow -> Observe -> Follow.
