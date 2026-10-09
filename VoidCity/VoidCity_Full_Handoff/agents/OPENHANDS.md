@@ -1,0 +1,1 @@
+OpenHands instructions: implement vertical slices only.

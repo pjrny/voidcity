@@ -1,0 +1,1 @@
+PopulationFlow=P*D*E. MovementRate=Speed*CapacityFactor. Simulation hierarchy FIELD->FLOW->GROUP->AGENT

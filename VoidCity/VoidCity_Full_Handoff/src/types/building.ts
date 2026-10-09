@@ -1,0 +1,1 @@
+export interface Building{id:string;sizeX:number;sizeY:number;sizeZ:number;capacity:number;}
