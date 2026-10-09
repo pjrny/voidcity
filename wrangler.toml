@@ -1,0 +1,16 @@
+name = "voidcity"
+main = "src/worker.ts"
+compatibility_date = "2026-10-09"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "voidcity"
+database_id = "c47acbfb-e1e4-4e9f-90d1-17e70092d3f9"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "db4eec32caaf431cbdfa04f3e1acf3f1"
+
+[observability]
+enabled = true

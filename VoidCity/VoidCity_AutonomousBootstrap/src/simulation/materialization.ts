@@ -1,1 +1,0 @@
-export enum SimLevel{FIELD,FLOW,GROUP,AGENT}

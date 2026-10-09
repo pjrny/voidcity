@@ -1,1 +1,0 @@
-VoidCity simulation-first city builder. Vector3 world. Wireframe rendering. Citizens materialize on demand.

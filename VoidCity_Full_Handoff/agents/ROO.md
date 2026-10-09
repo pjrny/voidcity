@@ -1,1 +1,0 @@
-Roo instructions: follow AGENTS.md and backlog order.

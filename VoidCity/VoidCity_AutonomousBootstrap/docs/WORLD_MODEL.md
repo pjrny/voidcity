@@ -1,1 +1,0 @@
-Assets: House,Farm,Market,Forest,Road,Citizen,Flow,Field. Surface z=0 but all entities use Vector3.

@@ -1,1 +1,0 @@
-VoidCity Autonomous Bootstrap
